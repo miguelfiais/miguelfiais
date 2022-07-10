@@ -22,4 +22,5 @@ Eu sou o Miguel Fiais, sou um desenvolvedor Front-end.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfiais)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<br>
 [![Miguel Fiais GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfiais)](https://github.com/anuraghazra/github-readme-stats)
