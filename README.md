@@ -24,16 +24,11 @@
 </h2>
 
 <pre>
-
 <img align="right" style="width:16rem; height:auto" src="https://media1.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47sggrjbutt69sxmos6tj6bueaotk9oxozt9npk62p&rid=giphy.gif&ct=s"/>
-
 💻 Eu gosto muitos de jogos e praticar esportes.   
-📚 Atualmente estou aprofundando meus estudos em React, Node e Bancos de dados.
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application developme
+📚 Estou cursando o DevClub, formação de programadores Full-Stack
+🌱 Atualmente estou aprofundando meus estudos em React, Node e Bancos de dados.
+🌟 Principais linguagens: Node, React
 🤔 Atualmente estou aberto para uma nova oportunidade de emprego
 </pre>
 
