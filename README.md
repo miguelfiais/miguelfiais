@@ -73,9 +73,13 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-  <a href="https://www.linkedin.com/in/miguel-fiais-a65982242/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" /></a>
+<p><a href="https://www.linkedin.com/in/miguel-fiais-a65982242/"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" /> </a> &nbsp
+<a href="https://www.instagram.com/miguelfiais/"> <img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" /> </a>
+</p>
 
-<a href="https://www.instagram.com/miguelfiais/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" /></a>
+Obrigado pela visita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+
 
 
 
