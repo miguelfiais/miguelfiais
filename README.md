@@ -21,7 +21,7 @@
 ## <img src="https://media4.giphy.com/media/Mdd8qPYRgUNpaWYFKw/giphy.gif?cid=ecf05e474ve6midy9q6ogj3vty7xonphhnxz2ir8zcc19yzj&rid=giphy.gif&ct=s" alt="STAR" width="60"> Um pouco sobre mim:
 
 <pre>
-<img align="right" style="width:16rem; height:auto" src="https://media1.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47sggrjbutt69sxmos6tj6bueaotk9oxozt9npk62p&rid=giphy.gif&ct=s"/>
+<img align="right" width="250" src="https://media1.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47sggrjbutt69sxmos6tj6bueaotk9oxozt9npk62p&rid=giphy.gif&ct=s"/>
 💻 Eu gosto muitos de jogos e praticar esportes.   
 📚 Estou cursando o DevClub, formação de programadores Full-Stack.
 🌱 Atualmente estou aprofundando meus estudos em React, Node e Bancos de dados.
