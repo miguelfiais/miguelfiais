@@ -1,24 +1,43 @@
-### Hi there 👋
 
+<h1 align="center">Oi, Eu sou o Miguel Fiais <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor%20Front-end;Sempre%20apredendo%20coisas%20novas&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<img align="left" src="https://media2.giphy.com/media/d5wjfoq2Q84SFJZDaP/giphy.gif?cid=ecf05e474ulsirkqdc590xpv7fiqf3qw92j7bgjpf9easeqo&rid=giphy.gif&ct=s" alt="cumprimento jiu-jitsu"  width="20%"/>
+
+<h2 align="right">Bem-vindo a minha página! 
+     <img align="right" src="https://media0.giphy.com/media/dzCzjXl39mdgrLwZl3/giphy.gif?cid=ecf05e474ulsirkqdc590xpv7fiqf3qw92j7bgjpf9easeqo&rid=giphy.gif&ct=ts" alt="Oss" width="50">
+</h2>
+
+<p align="right">
+ Sou um desenvolvedor Front-End, gosto muito de transformar minhas ideias em códigos. <br>
+ Estou estudando mais sobre Back-end e estou muito animado para melhorar e aprender novas habilidades.
+</p>
 <br>
+<hr>
 
-Eu sou o Miguel Fiais, sou um desenvolvedor Front-end. 
+ 
+<h2>
+ <img src="https://media4.giphy.com/media/Mdd8qPYRgUNpaWYFKw/giphy.gif?cid=ecf05e474ve6midy9q6ogj3vty7xonphhnxz2ir8zcc19yzj&rid=giphy.gif&ct=s" alt="STAR" width="60">
+  Um pouco sobre mim:
+</h2>
+
+<pre>
+
+<img align="right" style="width:16rem; height:auto" src="https://media1.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47sggrjbutt69sxmos6tj6bueaotk9oxozt9npk62p&rid=giphy.gif&ct=s"/>
+
+💻 Eu gosto muitos de jogos e praticar esportes.   
+📚 Atualmente estou aprofundando meus estudos em React, Node e Bancos de dados.
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application developme
+🤔 Atualmente estou aberto para uma nova oportunidade de emprego
+</pre>
+
+
+ 
+
   
- - 🔭 Atualmente estou trabalhando em
-    - <img  src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    - <img  src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    - <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    - <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    - <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-- 📫 Como chegar até mim: 
-    - <a href ="https://www.instagram.com/miguelfiais/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-      
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfiais)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-[![Miguel Fiais GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfiais)](https://github.com/anuraghazra/github-readme-stats)
