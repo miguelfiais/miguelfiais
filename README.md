@@ -23,10 +23,10 @@
 <pre>
 <img align="right" style="width:16rem; height:auto" src="https://media1.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47sggrjbutt69sxmos6tj6bueaotk9oxozt9npk62p&rid=giphy.gif&ct=s"/>
 💻 Eu gosto muitos de jogos e praticar esportes.   
-📚 Estou cursando o DevClub, formação de programadores Full-Stack
+📚 Estou cursando o DevClub, formação de programadores Full-Stack.
 🌱 Atualmente estou aprofundando meus estudos em React, Node e Bancos de dados.
-🌟 Principais linguagens: Node, React
-🤔 Estou aberto para uma nova oportunidade de emprego
+🌟 Principais linguagens: Node, React.
+🤔 Estou aberto para uma nova oportunidade de emprego.
 </pre>
 
 ##  <img width="60" src="https://media2.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif?cid=ecf05e470pw06ani13q3nv5w87uxczp22gb3vcy4jvpp2o9p&rid=giphy.gif&ct=s"> Linguagens e Ferramentas
@@ -73,9 +73,9 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-  <a href="https://www.linkedin.com/in/miguel-fiais-a65982242/" target="blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/miguel-fiais-a65982242/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" /></a>
 
-<a href="https://www.instagram.com/miguelfiais/" target="blank"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" /></a>
+<a href="https://www.instagram.com/miguelfiais/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" /></a>
 
 
 
