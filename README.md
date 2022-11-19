@@ -1,7 +1,7 @@
 
 <h1 align="center">Oi, Eu sou o Miguel Fiais <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor%20Front-end;Sempre%20aprendendo%20coisas%20novas&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor%20Full-Stack;Sempre%20aprendendo%20coisas%20novas&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -11,7 +11,7 @@
 <br>
 <br>
 <p align="justify">
-Sou um desenvolvedor Front-End, gosto muito de transformar minhas ideias em códigos, resolver problemas e criar novas aplicações que possam agregar de alguma maneira positivamente. No momento estou estudando mais sobre Back-end e estou muito animado para melhorar e aprender novas habilidades.
+Sou um desenvolvedor Full-Stack, gosto muito de transformar minhas ideias em códigos, resolver problemas e criar novas aplicações que possam agregar de alguma maneira positivamente. No momento estou estudando mais sobre Back-end e estou muito animado para melhorar e aprender novas habilidades.
 </p>
 <br>
 <hr>
