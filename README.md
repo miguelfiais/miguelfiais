@@ -21,7 +21,7 @@ Sou um desenvolvedor Full-Stack, gosto muito de transformar minhas ideias em có
 
 <pre>
 <img align="right" width="180" src="https://media1.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47sggrjbutt69sxmos6tj6bueaotk9oxozt9npk62p&rid=giphy.gif&ct=s"/>
-💻 Eu gosto muitos de jogos e praticar esportes e tocar violão.  
+💻 Eu gosto muitos de praticar esportes e tocar violão.  
 📚 Estou cursando o DevClub, formação de programadores Full-Stack.
 🌱 Atualmente estou aprofundando meus estudos em React, Node e Bancos de dados.
 🌟 Principais linguagens: Node, React.
