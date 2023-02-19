@@ -31,9 +31,9 @@
 ### <img src="https://media3.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif?cid=ecf05e47s14zmq5mrgdn0t2th57qswz0m583agl792i6im9o&rid=giphy.gif&ct=s" alt="estastiscas" width="30" />  Estatísticas GitHub:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelfiais&theme=algolia&show_icons=true" alt="status-github"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=miguelfiais&theme=algolia&mode=weekly" alt="status-github"/>
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfiais&layout=compact&theme=algolia" alt="top-linguagens"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miguelfiais&theme=algolia&show_icons=true" alt="status-github"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=miguelfiais&theme=algolia&mode=weekly" alt="status-github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfiais&layout=compact&theme=algolia" alt="top-linguagens"/>
 </div>
 
 
