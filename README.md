@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    Desenvolvedor Front-end, tenho 21 anos, sou de Cruz das Almas BA. 
+    Desenvolvedor Full-Stack, tenho 22 anos, sou de Cruz das Almas BA. 
   </em>
 </p>
 
