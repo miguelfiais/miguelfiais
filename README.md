@@ -15,15 +15,25 @@
 <img align="right" src="https://media2.giphy.com/media/d5wjfoq2Q84SFJZDaP/giphy.gif?cid=ecf05e474ulsirkqdc590xpv7fiqf3qw92j7bgjpf9easeqo&rid=giphy.gif&ct=s" alt="cumprimento jiu-jitsu" width="180"/>
 
 - 🌟 Eu gosto muitos de praticar esportes e tocar violão.  
-- 📚 Estou cursando o DevClub, formação de programadores Full-Stack.
-- 🌱 Atualmente estou aprofundando meus estudos em React, Node e Bancos de dados.
-- 💻 Principais linguagens: Node, React.
+- 🌱 Atualmente estou aprimorando minhas habilidades em Next.js e NodeJS.
 - 📫 <a href="https://miguelfiais.netlify.app/" target="_blank"> Meu Portfólio <a/>
 </br>
 
-### <img width="40" src="https://media2.giphy.com/media/uhQuegHFqkVYuFMXMQ/200w.webp?cid=ecf05e47n5q5wzand2my7pyklchn2bwjeasz0n1z5dczgy3z&rid=200w.webp&ct=s">  Tecnologias e ferramentas:
+## Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,nodejs,docker,postgresql,mongodb,git,github,vscode)](https://skillicons.dev)
+### Front-end
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
+
+
+### Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,postgresql,mongodb,express,prisma)](https://skillicons.dev)
+
+### Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,figma)](https://skillicons.dev)
+
 
 </br>
 
