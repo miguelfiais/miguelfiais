@@ -16,7 +16,6 @@
 
 - 🌟 Eu gosto muitos de praticar esportes e tocar violão.  
 - 🌱 Atualmente estou aprimorando minhas habilidades em Next.js e NodeJS.
-- 📫 <a href="https://miguelfiais.netlify.app/" target="_blank"> Meu Portfólio <a/>
 </br>
 
 ## Tecnologias:
