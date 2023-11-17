@@ -15,7 +15,7 @@
 <img align="right" src="https://media2.giphy.com/media/d5wjfoq2Q84SFJZDaP/giphy.gif?cid=ecf05e474ulsirkqdc590xpv7fiqf3qw92j7bgjpf9easeqo&rid=giphy.gif&ct=s" alt="cumprimento jiu-jitsu" width="180"/>
 
 - 🌟 Eu gosto muitos de praticar esportes e tocar violão.  
-- 🌱 Atualmente estou aprimorando minhas habilidades em Next.js e NodeJS.
+- 🌱 Atualmente estou aprimorando minhas habilidades em React.js, Next.js e NodeJS.
 </br>
 
 ## Tecnologias:
